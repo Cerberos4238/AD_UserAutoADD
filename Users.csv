@@ -1,0 +1,6 @@
+SamAccountName;password;path;GivenName;Surname;Initials;Name;DisplayName;UserPrinicpalName
+test1;Azerty1234;OU=Users,OU=TEST,DC=Test,DC=corp;Nesta;test1;t1;Nesta;Test 1;test1@test.corp
+test2;Azerty1234;OU=Users,OU=TEST,DC=Test,DC=corp;Marie;test2;t2;Marie;Test 2;test2@test.corp
+test3;Azerty1234;OU=Users,OU=TEST,DC=Test,DC=corp;Pierre;test3;t3;Pierre;Test 3;test3@test.corp
+test4;Azerty1234;OU=Users,OU=TEST,DC=Test,DC=corp;Jacques;test4;t4;Jacques;Test 4;test4@test.corp
+test5;Azerty1234;OU=Users,OU=TEST,DC=Test,DC=corp;Emilie;test5;t5;Emilie;Test 5;test5@test.corp
